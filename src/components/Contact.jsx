@@ -23,7 +23,7 @@ export const Contact = ({ texts}) => {
 
           {/* LINKEDIN */}
           <div className="col-md-3 col-sm-6">
-            <a href="https://www.linkedin.com/in/christian-lópez-del-castillo-vallejo-126933386" target="_blank" rel="noreferrer" className="text-decoration-none">
+            <a href="https://www.linkedin.com/in/christian-lópez-del-castillo-vallejo" target="_blank" rel="noreferrer" className="text-decoration-none">
               <div className="card contact-card h-100 border-0 text-center p-4">
                 <i className="bi bi-linkedin display-4 text-primary-custom mb-3"></i>
                 <h5 className="text-white">LinkedIn</h5>
