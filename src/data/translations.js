@@ -17,13 +17,12 @@ export const translations = {
     about: {
       title: "Sobre Mí",
       subtitle: "Desarrollador apasionado por la tecnología",
-      // ↓↓↓ ESCRIBE AQUÍ TU TEXTO ↓↓↓
       description1:
-        "¡Hola! Soy Christian. Mi viaje en la programación comenzó cuando descubrí que podía crear cosas de la nada con código. Vengo de un entorno diferente, pero el Bootcamp me cambió la vida.",
+        "¡Hola! Soy Christian. Mi trayectoria en la programación comenzó el día que decidí dar un giro a mi carrera profesional. Buscando un camino con mayor proyección, di el salto al Desarrollo Web a través de un Bootcamp Full Stack intensivo.",
       description2:
-        "Me especializo en el ecosistema JavaScript (React, Node.js). Me encanta resolver problemas complejos y aprender tecnologías nuevas cada semana. Busco un equipo donde pueda aportar y seguir creciendo.",
+        "Aprendo día a día, transformando ideas propias en código. Actualmente me especializo en Frontend, pero sigo ampliando mis conocimientos en Backend. Me apasiona diseñar espacios digitales seguros y accesibles para todos. Busco un equipo donde pueda aportar valor y seguir creciendo.",
       skillsTitle: "Mis Habilidades",
-      // ↓↓↓ TUS HABILIDADES (PUEDES AÑADIR O QUITAR) ↓↓↓
+      // ↓↓↓ HABILIDADES ↓↓↓
       skills: [
         "React.js",
         "Tailwind CSS",
@@ -72,13 +71,12 @@ export const translations = {
     about: {
       title: "About Me",
       subtitle: "Developer passionate about technology",
-      // ↓↓↓ ESCRIBE AQUÍ TU TEXTO EN INGLÉS ↓↓↓
       description1:
-        "Hello! I'm Christian. My journey into programming began when I discovered I could build things from scratch with code. I come from a different background, but the Bootcamp changed my life.",
+        "Hi! I'm Christian. My journey into programming began the day I decided to pivot my career. Seeking a more fulfilling path, I transitioned into Web Development through an intensive Full Stack Bootcamp.",
       description2:
-        "I specialize in the JavaScript ecosystem (React, Node.js). I love solving complex problems and learning new technologies every week. I'm looking for a team where I can contribute and keep growing.",
+        "I am a continuous learner, constantly acquiring new skills and turning my own ideas into code. While I am currently specializing in Frontend, I continue to expand my Backend knowledge to maintain a holistic view. I am passionate about designing secure and accessible digital spaces for everyone. I am looking for a team where I can contribute, collaborate, and keep growing.",
       skillsTitle: "My Skills",
-      // ↓↓↓ TUS HABILIDADES EN INGLÉS ↓↓↓
+      // ↓↓↓ HABILIDADES EN INGLÉS ↓↓↓
       skills: [
         "React.js",
         "Tailwind CSS",
