@@ -13,8 +13,7 @@ export const Hero = ({ texts }) => {
             </div>
           </div>
           <div className="col-lg-6 d-flex justify-content-center position-relative">
-             {/* Recuerda poner tu ruta correcta de imagen aquí */}
-            <img src="/public/img/Profile.png" className="img-fluid profile-img" alt="Christian" />
+            <img src="/img/profile.png" className="img-fluid profile-img" alt="Christian" />
           </div>
         </div>
       </div>
