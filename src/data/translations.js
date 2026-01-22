@@ -80,14 +80,14 @@ export const translations = {
       skillsTitle: "My Skills",
       // ↓↓↓ TUS HABILIDADES EN INGLÉS ↓↓↓
       skills: [
-        "JavaScript (ES6+)",
         "React.js",
+        "Tailwind CSS",
         "HTML5 & CSS3",
         "Bootstrap",
         "Node.js",
         "Git & GitHub",
         "MongoDB",
-        "Figma",
+        "JavaScript (ES6+)",
       ],
     },
     // ==================================================
