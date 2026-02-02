@@ -45,7 +45,7 @@ export const Contact = ({ texts}) => {
 
           {/* TELÉFONO */}
           <div className="col-md-3 col-sm-6">
-            <a href="tel:+34600000000" className="text-decoration-none">
+            <a href="tel:+34666187778" className="text-decoration-none">
               <div className="card contact-card h-100 border-0 text-center p-4">
                 <i className="bi bi-whatsapp display-4 text-primary-custom mb-3"></i>
                 <h5 className="text-white">{texts.cards.phoneTitle}</h5>
