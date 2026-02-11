@@ -8,6 +8,6 @@ export const projects = [
     },
     image: "/img/Smartphone1.png",
     tags: ["React", "Capacitor", "Android", "Tailwind"],
-    link: "buy-list-mi-compra.netlify.app",
+    link: "https://buy-list-mi-compra.netlify.app",
   },
 ];
