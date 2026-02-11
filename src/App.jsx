@@ -46,6 +46,7 @@ function App() {
                   description={project.description[language]} 
                   image={project.image}
                   tags={project.tags}
+                  link={project.link}
                 />
               ))}
             </div>

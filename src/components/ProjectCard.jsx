@@ -1,7 +1,14 @@
+export const ProjectCard = ({ title, description, image, tags, link }) => {
+  const Wrapper = link ? 'a' : 'div';
+  const wrapperProps = link ? { 
+    href: link, 
+    target: "_blank", 
+    rel: "noreferrer", 
+    className: "text-decoration-none col-md-4" 
+  } : { className: "col-md-4" };
 
-export const ProjectCard = ({ title, description, image, tags }) => {
   return (
-    <div className="col-md-4">
+    <Wrapper {...wrapperProps}>
       <div className="card project-card h-100 border-0">
         <div className="card-img-wrapper">
           <img src={image} className="card-img-top" alt={title} />
@@ -16,6 +23,6 @@ export const ProjectCard = ({ title, description, image, tags }) => {
           </div>
         </div>
       </div>
-    </div>
+    </Wrapper>
   );
 };
